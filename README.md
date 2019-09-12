@@ -1,6 +1,6 @@
-# Animation Orientations
+# Orientation Animations
 
-This is a set of animations for Pepper the robot, using the QiSDK.
+This is a set of animations for Pepper the robot, using the QiSDK, allowing Pepper to point in various directions.
 
 See https://developer.softbankrobotics.com/pepper-qisdk
 
